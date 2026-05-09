@@ -8,7 +8,3 @@
 ## Tools and Technology used-
 #### 1. Microsoft Power BI
 #### 2. MS Excel
-
-
-## Data Source used- 
-* Kaggle- https://www.kaggle.com/datasets/tahir1413/global-superstore-2016
